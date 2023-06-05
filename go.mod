@@ -1,4 +1,4 @@
-module github.com/cloudflare/circl
+module github.com/ryndia/circl
 
 go 1.17
 
